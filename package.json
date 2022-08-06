@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "ethers": "^5.5.1",
     "next": "12.2.4",
+    "next-auth": "^4.10.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "siwe": "^1.1.6",
+    "wagmi": "^0.6.1"
   },
   "devDependencies": {
     "@types/node": "18.6.4",
